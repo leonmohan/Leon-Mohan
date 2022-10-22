@@ -15,7 +15,7 @@
   </a>
 </p>
 
-I've been interested in programming since the age of 15. I am passionate about the freedom programming offers to the complex problems of our world. I earned a diploma in Computer Programming at Humber College with two dean honors in April 2022.
+I've been interested in programming since the age of 15. I am passionate about the freedom programming gives to solve complex problems. I earned a diploma in Computer Programming at Humber College with two dean honors in April 2022.
 
 For more details about me, see [my website](https://moonlit-hamster-fd293b.netlify.app/)!
 
