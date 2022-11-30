@@ -26,18 +26,9 @@ For more details about me, see [my website](https://moonlit-hamster-fd293b.netli
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Bug Tracker</h3>
-        <br />
-        <a target="_blank" href="https://bug-tracker-leonmohan-frontend.herokuapp.com/">
-            <img src="images/gif1.gif" width="100%" alt="Bug Tracker"/>
-        </a>
-        <br />
         <p align="center">
-          
   <a href="https://github.com/leonmohan/Bug-Tracker" target="_blank">
     <img src="https://user-images.githubusercontent.com/101066826/195493705-adb290a4-5853-45de-a6cc-10eb25f4b273.gif"/>
-  </a>  
-  <a href="https://bug-tracker-leonmohan-frontend.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo-color=white"/>
   </a>
       </p>
         <p><strong>PostgeSQL, Express, React, Node</strong> - A bug tracking website that allows you to create a project and document all the bugs that need to be completed via CRUD operations</p>
