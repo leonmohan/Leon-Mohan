@@ -19,7 +19,7 @@ Hello! I first discovered my passion for programming during my high school years
 
 From there, I started exploring different programming languages and continued to teach myself and practice programming. Eventually when it came time to go to college I chose to study Computer Programming. After graduating, I decided to focus my career on web development.
 
-For more details about me, see my [portfolio](https://moonlit-hamster-fd293b.netlify.app/)!
+For more details about me, see my [portfolio](https://leonmohan.netlify.app/)!
 
 
 <h1 align="center">Favorite projects</h1>
