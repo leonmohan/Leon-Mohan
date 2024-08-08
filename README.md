@@ -10,9 +10,6 @@
   <a href="https://twitter.com/LeonMohanDev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://github.com/leonmohan/leonmohan/files/11007129/LeonMohanResume.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=&logo-color=white"/>
-  </a>
 </p>
 
 Hello! I first discovered my passion for programming during my high school years when I would fiddle with Lua on Roblox. I was always curious about how the code worked, and one day stumbled upon an tutorial for creating a simple sword damage script. I found myself fascinated with the process of turning lines of code into actual items in the game.
