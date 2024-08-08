@@ -1,9 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/101066826/197309274-c4a16247-2601-4a24-99f7-0cf412af2cca.png)
 
 <p align="center">
-  <a href="https://leonmohan.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo-color=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/leonmohan/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
@@ -15,8 +12,6 @@
 Hello! I first discovered my passion for programming during my high school years when I would fiddle with Lua on Roblox. I was always curious about how the code worked, and one day stumbled upon an tutorial for creating a simple sword damage script. I found myself fascinated with the process of turning lines of code into actual items in the game.
 
 From there, I started exploring different programming languages and continued to teach myself and practice programming. Eventually when it came time to go to college I chose to study Computer Programming. After graduating, I decided to focus my career on web development.
-
-For more details about me, see my [portfolio](https://leonmohan.netlify.app/)!
 
 
 <h1 align="center">Favorite repositories</h1>
